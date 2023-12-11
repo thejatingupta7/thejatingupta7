@@ -17,10 +17,6 @@
 - 🔧 &nbsp; PyCharm | IntelliJ Idea | Visual Studio code
 
 
-<br>
-
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=thejatingupta7&hide=contribs,prs)
-
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejatingupta7)
