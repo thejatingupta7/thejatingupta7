@@ -23,7 +23,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejatingupta7&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/thejatingupta7/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 
 <h3> 🤝 Connect with Me </h3>
