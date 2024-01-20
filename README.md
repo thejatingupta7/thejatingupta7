@@ -14,7 +14,7 @@
 
 - 💻 &nbsp; Python | SQL | Java | C programming
 - 🌐 &nbsp; HTML | CSS
-- 🔧 &nbsp; PyCharm | IntelliJ Idea | Visual Studio code
+- 🔧 &nbsp; PyCharm | Jupyter | Colab | IntelliJ Idea | Visual Studio code
 
 
 </br>
