@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C programming
+- 💻 &nbsp; Python | SQL | Java | C programming
 - 🌐 &nbsp; HTML | CSS
 - 🔧 &nbsp; PyCharm | IntelliJ Idea | Visual Studio code
 
