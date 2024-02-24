@@ -3,8 +3,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Python
-- 🎓 &nbsp; Pursuing BTech CSE - Data Science
+- 🔭 &nbsp; Python does everything!
+- 🎓 &nbsp; Computer Science Engineering - Data Science
 
 - 🌱 &nbsp; Enthusiast in Data Science .
 - ✍️ &nbsp; I like doing meditation and reading religious scriptures.
