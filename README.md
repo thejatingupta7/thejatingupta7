@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Computer Science Engineering - Data Science
 
 - 🌱 &nbsp; Enthusiast in Data Science .
-- ✍️ &nbsp; I like doing meditation and reading religious scriptures.
+- ✍️ &nbsp; I like doing meditation and reading scriptures.
 - ☕ &nbsp; I believe, a talk with a friend can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
