@@ -1,4 +1,8 @@
 <h2> Hey there! I'm Jatin. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<div align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&pause=1000&color=07F700&background=FF272700&center=true&vCenter=true&width=435&lines=I+am+Jatin+Gupta+;Undergraduate+Researcher;Exploring+NLP+and+Deep+Learning;Love+Large+Language+Models" alt="Typing SVG" /></a>
+</div>
+
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFmeHcxbXd0dWJtZGZpcXljZmFpc280bXZpcWpyOTRrYWl0MTFnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
