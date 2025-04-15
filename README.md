@@ -11,7 +11,7 @@
 
 </div>
 
-### 🧑🏻‍💻 &nbsp;Tech Stack
+### ⚙️ &nbsp;Tech Stack
 
 
 
