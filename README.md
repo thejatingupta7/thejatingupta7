@@ -10,7 +10,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 **Final-year @ Sharda University** - CS Data Science (8.94 GPA)📚
+- 🎓 **Final-year @ Sharda University** - CS Data Science (8.9 GPA)📚
 - 🌱 **Intern @ IIT Kharagpur** - NPTEL Winter Research Intern 🤖
 - 🤖 **Researcher** - Researching in LLM domain adaptation.
 - ✍️ **Meditates + scriptures** - Then fine-tunes models till 3 AM 🧘‍♂️
