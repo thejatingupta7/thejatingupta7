@@ -20,11 +20,6 @@
 
 </div>
 
-### 🌍 Open To
-- Research Collaborations
-- International Research Internships 
-- Direct PhD Programs (Fall 2026)
-
 
 
 ### ⚙️ &nbsp;Tech Stack
@@ -45,6 +40,10 @@ Miscellaneous       | <img width="27px" src="https://user-images.githubuserconte
 
 </div>
 
+### 🌍 Open To
+- Research Collaborations
+- International Research Internships 
+- Direct PhD Programs (Fall 2026)
 
 <h3> 🤝 Connect with Me </h3>
 
